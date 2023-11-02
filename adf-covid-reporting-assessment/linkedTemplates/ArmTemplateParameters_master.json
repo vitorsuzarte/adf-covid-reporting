@@ -17,12 +17,6 @@
 		"ls_http_opendata_ecdc_europa_eu_properties_typeProperties_url": {
 			"value": "https://raw.githubusercontent.com"
 		},
-		"tr_ingest_hospital_admissions_data_properties_pl_ingest_ecdc_data_parameters_sourceRelativeUrl": {
-			"value": "cloudboxacademy/covid19/main/ecdc_data/hospital_admissions.csv"
-		},
-		"tr_ingest_hospital_admissions_data_properties_pl_ingest_ecdc_data_parameters_sinkFileName": {
-			"value": "hospital_admissions.csv"
-		},
 		"tr_ingest_population_data_properties_typeProperties_scope": {
 			"value": "/subscriptions/02791d21-a9cc-4e53-bbbc-9f39a4be42f8/resourceGroups/udemy-ramesh-adf-course/providers/Microsoft.Storage/storageAccounts/covidreportingstoac"
 		},
