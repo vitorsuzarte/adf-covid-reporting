@@ -2,16 +2,12 @@
 	"name": "tr_ingest_hospital_admissions_data",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Started",
+		"runtimeState": "Stopped",
 		"pipelines": [
 			{
 				"pipelineReference": {
 					"referenceName": "pl_ingest_ecdc_data",
 					"type": "PipelineReference"
-				},
-				"parameters": {
-					"sourceRelativeUrl": "cloudboxacademy/covid19/main/ecdc_data/hospital_admissions.csv",
-					"sinkFileName": "hospital_admissions.csv"
 				}
 			}
 		],
